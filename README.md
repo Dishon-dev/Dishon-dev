@@ -24,11 +24,20 @@ Here are some ideas to get you started:
 :
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top languages</summary>
 
-YOUR TABLE
-
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+  
 </details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Dishon
 
 | Rank | Languages |
 |-----:|---------------|
