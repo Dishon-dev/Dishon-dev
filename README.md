@@ -1,4 +1,8 @@
-<h2 align="center">***Hi Eartlings*** 👋</h2>
+<h2 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=***Hi+Eartlings***+👋)](https://git.io/typing-svg)
+  
+</h2>
 
 ## 💻 Tech Stack:
 <br>
