@@ -45,3 +45,9 @@ Here are some ideas to get you started:
 |     2|               |
 |     3|               |
 -->
+<h1 align="center">📊 GitHub Stats:</h1>
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishon-dev&theme=dark&hide_border=false" align="center" /></div>  
+<br>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishon-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
