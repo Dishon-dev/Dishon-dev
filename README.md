@@ -57,9 +57,21 @@ Here are some ideas to get you started:
 |     2|               |
 |     3|               |
 -->
-<h1 align="center">📊 GitHub Stats:</h1>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishon-dev&theme=dark&hide_border=false" align="center" /></div>  
+## My Stats:
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishon-dev&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/Dishon-dev) -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dishon-dev&column=7&theme=onedark" />
+</div>
 <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishon-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
+<div align="center">
+ <img  height='165px' src="https://github-readme-stats.vercel.app/api?username=Dishon-dev&show_icons=true&theme=onedark&count_private=true">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishon-dev&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
+
+<br>
+ 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishon-dev&theme=dark&hide_border=false"></div>
