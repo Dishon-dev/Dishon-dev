@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   
 </div>
 
- <h2 align="center">  Connect with me </h2>
+ <h2 align="center">  Connect with me🤝🏻</h2>
  
 <div align="center">
   <a href="https://www.linkedin.com/in/polycap-dishon/">
