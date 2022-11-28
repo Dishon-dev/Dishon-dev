@@ -1,10 +1,19 @@
+<h2 align="center">***Hi Eartlings*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Earthlings" width="28" /></h2>
+
 <h2 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=***Hi+Eartlings***+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=I'm+Mr.+Polycap+Dishon;A+Sofware+Developer;An+Android+Application+Developer;A+Web+Developer;A+Security+Consultant)](https://git.io/typing-svg)
   
 </h2>
 
-## 💻 Tech Stack:
+## About Me
+  - 💻 I'm a Software and Security Engineer
+  - 🔭 I'm currently working on a Lawyer Finder Android App.
+  - 🌱 I’m currently learning Offensive Security, Defensive Security and Pen Testing.
+  - 👯 Computer Forensics Investigation.
+  - 💬 Ask me about Android App and Web Development.
+
+<h3 align="center">💻 Tech Stack</h3>
 <br>
 
 <div align="center">
@@ -38,7 +47,7 @@ Here are some ideas to get you started:
 @polycap_dishon
 -->
 
-<h2 align="left">My Stats:</h2>
+<h3 align="center">Streak and Stats</h3>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishon-dev&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/Dishon-dev) -->
 
@@ -58,7 +67,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="left">Contributions Graph:</h2>
+<h2 align="left">Contributions Graph</h2>
 <br>
 
 <div align="center">
@@ -67,7 +76,8 @@ Here are some ideas to get you started:
   
 </div>
 
-<!--
+ <h2 align="center">  Connect with me </h2>
+ 
 <div align="center">
   <a href="https://www.linkedin.com/in/polycap-dishon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -78,11 +88,10 @@ Here are some ideas to get you started:
   </a>
     
   <a href="https://twitter.com/polycap_dishon">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/polycap_dishon?logo=twitter&style=social" alt="Twitter"/>
   </a>
   
   <a href="https://github.com/Dishon-dev/">
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
 </div>
--->
