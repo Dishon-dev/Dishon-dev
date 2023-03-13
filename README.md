@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-<img src="https://activity-graph.herokuapp.com/graph?username=dishon-dev&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/graph?username=dishon-dev&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false">
   
 </div>
 
