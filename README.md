@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dishon-dev&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+<img src="https://activity-graph.herokuapp.com/graph?username=dishon-dev&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false">
   
 </div>
 
