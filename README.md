@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <br>
  
-<!--<div align="center"><img src="https://github-readme-streak-stats.vercel.app/api?user=dishon-dev&theme=dark&hide_border=false"></div>-->
+<div align="center"><img src="https://github-readme-streak-stats.vercel.app/api?user=dishon-dev&theme=dark&hide_border=false"></div>
 
 <br>
 
