@@ -67,15 +67,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="left">Contributions Graph</h2>
-<br>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/graph?username=dishon-dev&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false">
-  
-</div>
-
  <h2 align="center">  Connect with me🤝🏻</h2>
  
 <div align="center">
