@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 
 <h3 align="center">Streak and Stats</h3>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishon-dev&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/Dishon-dev)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishon-dev&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/Dishon-dev)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dishon-dev&column=7&theme=onedark" />
 </div>
-<br>
+<br> -->
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=dishon-dev&show_icons=true&&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true">
