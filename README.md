@@ -7,11 +7,11 @@
 </h2>
 
 ## About Me
-  - 💻 I'm a Software and Security Engineer
-  - 🔭 I'm currently working on a Lawyer Finder Android App.
+  - 💻 I'm a Full-Stack Engineer(BE & FE)
+  - 🔭 My prtojects include Lawyer Finder App, HMS, Studio Management System, JobSearch Web Application.
   - 🌱 I’m currently learning Offensive Security, Defensive Security and Pen Testing.
   - 👯 Computer Forensics Investigation.
-  - 💬 Ask me about Android App and Web Development.
+  - 💬 Ask me about Software Development.
 
 <h3 align="center">🛠 Tech Stack</h3>
 <br>
