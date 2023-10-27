@@ -2,7 +2,7 @@
 
 <h2 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=I'm++Polycap+Dishon;A+Sofware+Developer;An+Android+Application+Developer;A+Full-Stack+Web+Developer;A+Security+Consultant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=I'm++Polycap+Dishon;A+Sofware+Engineer;An+Android+Application+Developer;A+Full-Stack+Web+Developer;A+Security+Consultant)](https://git.io/typing-svg)
   
 </h2>
 
