@@ -8,7 +8,7 @@
 
 ## About Me
   - 💻 I'm a Full-Stack Engineer(BE & FE)
-  - 🔭 My prtojects include Lawyer Finder App, HMS, Studio Management System, JobSearch Web Application.
+  - 🔭 My projects include Lawyer Finder App, HMS, Studio Management System, JobSearch Web Application.
   - 🌱 I’m currently learning Offensive Security, Defensive Security and Pen Testing.
   - 👯 Computer Forensics Investigation.
   - 💬 Ask me about Software Development.
