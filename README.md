@@ -1,4 +1,4 @@
-<h2 align="center">***Hi Eartlings*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Earthlings" width="28" /></h2>
+<h2 align="center">***Hi Earthlings*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Earthlings" width="28" /></h2>
 
 <h2 align="center">
   
